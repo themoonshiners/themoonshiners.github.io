@@ -2,7 +2,7 @@
 
 body {
 
-	font-family: Georgia, sans-serif;
+	font-family: Georgia, serif;
 
 }
 
@@ -30,7 +30,7 @@ p {
 #contact-area input, #contact-area textarea {
 	padding: 5px;
 	width: 471px;
-	font-family: Georgia, sans-serif;
+	font-family: Georgia, serif;
 	font-size: 1.4em;
 	margin: 0px 0px 10px 0px;
 	border: 2px solid #ccc;
